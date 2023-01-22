@@ -17,4 +17,4 @@ jobs:
           script: |
             cd ~/pub/sandlers
             unalias rm
-            rm -rf cmsc389T-web-Sonia_Sandler
+            rm -rf cmsc389T-web-template
