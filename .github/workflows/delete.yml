@@ -15,5 +15,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
+            cd ~/pub/sandlers
             unalias rm
             rm -rf cmsc389T-web-Sonia_Sandler
