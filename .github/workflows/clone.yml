@@ -14,5 +14,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           script: |
-            cd ~/pub/sandlers/
+            cd /pub/sandlers/
             git clone git@github.com:Sonia-Sandler/cmsc389T-web-template.git
