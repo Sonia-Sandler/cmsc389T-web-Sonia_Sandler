@@ -13,5 +13,4 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: |
-            git clone https://github.com/Sonia-Sandler/cmsc389T-web-Sonia_Sandler.git
+          script: git@github.com:Sonia-Sandler/cmsc389T-web-Sonia_Sandler.git
