@@ -1,5 +1,6 @@
 # cmsc388T-web-template
-[GitHub Pages](https://sonia-sandler.github.io/cmsc389T-web-Sonia_Sandler/)
+https://sonia-sandler.github.io/cmsc389T-web-Sonia_Sandler/
+https://terpconnect.umd.edu/~sandlers/cmsc389T-web-template/
 
 Changes I have made:
 1. Added Relevant Info and Interests as h3 headers
